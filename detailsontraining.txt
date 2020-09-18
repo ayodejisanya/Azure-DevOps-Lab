@@ -1,0 +1,177 @@
+
+
+https://www.microsoftazurepass.com/
+
+[8:56 AM] Sandeep Kumar (Guest)
+    hi
+?[8:57 AM] Sandeep Kumar (Guest)
+    can you hear me Ayodeji?
+?[9:17 AM] Sandeep Kumar (Guest)
+    
+https://www.microsoftazurepass.com/
+?[9:19 AM] Sandeep Kumar (Guest)
+    
+QY6D5BWW73PDWNHZUY
+
+https://www.skillpipe.com/
+
+https://docs.microsoft.com/en-gb/azure/security-center/security-center-just-in-time?tabs=jit-config-api%2Cjit-request-api
+
+https://docs.microsoft.com/en-gb/azure/security-center/security-center-just-in-time?tabs=jit-config-api%2Cjit-request-api
+
+
+https://azure.microsoft.com/en-us/support/legal/sla/virtual-machines/v1_9/
+
+
+https://www.koenig-solutions.com/account/login
+
+POWERSHELL ENABLE FEATURE FOR IIS
+# install IIS server role
+  Install-WindowsFeature -name Web-Server -IncludeManagementTools
+
+ 
+
+# remove default htm file
+  remove-item  C:\inetpub\wwwroot\iisstart.htm
+
+ 
+
+# Add a new htm file that displays server name
+  Add-Content -Path "C:\inetpub\wwwroot\iisstart.htm" -Value $("Hello World from " + $env:computername)
+
+
+http://52.149.213.9/
+
+https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?tabs=option-1-create-load-balancer-standard
+
+az aks get-credentials --resource-group myResourceGroup --name myAKSCluster
+
+az aks get-credentials --resource-group MC_RG1_kubercontainer_eastus --name myAKSCluster
+
+az aks get-credentials --resource-group RG1 --name kubercontainer-dns-a266fe14.hcp.eastus.azmk8s.io
+
+az aks get-credentials --resource-group RG1 --name kubercontainer
+
+kubectl get nodes
+
+ayodeji@Azure:~$ kubectl get nodes
+NAME                                STATUS   ROLES   AGE   VERSION
+aks-agentpool-39396562-vmss000000   Ready    agent   16m   v1.16.13
+aks-agentpool-39396562-vmss000001   Ready    agent   16m   v1.16.13
+aks-agentpool-39396562-vmss000002   Ready    agent   16m   v1.16.13
+aks-agentpool-39396562-vmss000003   Ready    agent   16m   v1.16.13
+aks-agentpool-39396562-vmss000004   Ready    agent   16m   v1.16.13
+ayodeji@Azure:~$
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: azure-vote-back
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: azure-vote-back
+  template:
+    metadata:
+      labels:
+        app: azure-vote-back
+    spec:
+      nodeSelector:
+        "beta.kubernetes.io/os": linux
+      containers:
+      - name: azure-vote-back
+        image: redis
+        resources:
+          requests:
+            cpu: 100m
+            memory: 128Mi
+          limits:
+            cpu: 250m
+            memory: 256Mi
+        ports:
+        - containerPort: 6379
+          name: redis
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: azure-vote-back
+spec:
+  ports:
+  - port: 6379
+  selector:
+    app: azure-vote-back
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: azure-vote-front
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: azure-vote-front
+  template:
+    metadata:
+      labels:
+        app: azure-vote-front
+    spec:
+      nodeSelector:
+        "beta.kubernetes.io/os": linux
+      containers:
+      - name: azure-vote-front
+        image: microsoft/azure-vote-front:v1
+        resources:
+          requests:
+            cpu: 100m
+            memory: 128Mi
+          limits:
+            cpu: 250m
+            memory: 256Mi
+        ports:
+        - containerPort: 80
+        env:
+        - name: REDIS
+          value: "azure-vote-back"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: azure-vote-front
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: azure-vote-front
+
+
+Console
+
+Copy
+kubectl apply -f azure-vote.yaml
+The following example output shows the Deployments and Services created successfully:
+
+Output
+
+Copy
+deployment "azure-vote-back" created
+service "azure-vote-back" created
+deployment "azure-vote-front" created
+service "azure-vote-front" created
+
+kubectl get service azure-vote-front --watch
+
+NAME               TYPE           CLUSTER-IP   EXTERNAL-IP   PORT(S)        AGE
+azure-vote-front   LoadBalancer   10.0.37.27   <pending>     80:30572/TCP   6s
+
+ayodeji@Azure:~$ kubectl get service azure-vote-front --watch
+NAME               TYPE           CLUSTER-IP   EXTERNAL-IP      PORT(S)        AGE
+azure-vote-front   LoadBalancer   10.0.99.19   52.151.232.247   80:31040/TCP   3m14s
+
+https://github.com/Azure-Samples/azure-voting-app-redis
+
+
+
+
