@@ -1,0 +1,333 @@
+﻿
+familyclerks@no5.com
+
+AMAZON RECRUITMENT 
+Pa55w0rd!1
+
+https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?client_id=c44b4083-3bb0-49c1-b47d-974e53cbdf3c&response_mode=form_post&response_type=code+id_token&scope=https%3a%2f%2fmanagement.core.windows.net%2f%2fuser_impersonation+openid+email+profile&state=OpenIdConnect.AuthenticationProperties%3daVFwC8LV9Me2lDjZ1myFHdY4Ow6pJ2nlibIM88odRCsukZlwitMqX32FPBmuAX-rNL_ZPIpGvTz-MRgHCq_-gvz6JjoCZn0RH_qEM32Bbg_XePoss2b7bU3GtAnV0Jv9GhbD2TZgAOedeqcO0-JiNUi5pUuoeecYF0Zr4uzaG1dKSaoGVtL3Hys8d2Os11JVZb5aghkmrioiEm11rAFg6SpfgU8tLJWtg9hDD-ua9Vfh3VgrinSk9DrsxorbM3yCNh-OhODACCO5Uhj7TuRjOWUCCPlpvvC3mYItdzh9L6AMa_kfiYVkIPnqYV4t__0WX070q3HvS57OGcYbfFJVlYUtdlWextnH_nbNxXTToAS8mLXf0ERcZlH192b5W1-ZhGEdUuMP3ztYd9nwYcRkGQ&nonce=637167434860186586.OWY3OWIxZTYtNTJkZS00YmQ2LWI4NDEtMWI4YTU3ZTJiZDkzOTNlYmQwODktYmZiNi00MjY2LTg4NDctNjJmNmFiY2Q4YTk2&redirect_uri=https%3a%2f%2fportal.azure.com%2fsignin%2findex%2f%3ffeature.refreshtokenbinding%3dtrue%26feature.snivalidation%3dtrue%26feature.usemsallogin%3dtrue&site_id=501430&client-request-id=cd3233f7-050a-40bd-89ba-0c2037c934db&x-client-SKU=ID_NET&x-client-ver=1.0.40306.1554
+
+Azure=aosanya@gamartec.onmicrosoft.com/ ayodejisanya@yahoo.com
+aosanya/ayodejisanya
+Sebanjo1234
+Pa55w0rd!1234
+pa55w0rd!1234
+
+github/aosanya@hotmail.com
+Cd3233f7050a40bd89
+
+github/ayodejisanya@yahoo.com
+Pa55w0rd!1234
+
+SERVERLESS LOGIN
+aosanya@gamartec.onmicrosoft.com
+Pa55w0rd!1
+
+KICC SHOP
+Sebanjo1234
+
+
+UBUNTU
+ayodejisanya
+Pa55w0rd!1234
+Correlation ID: ac37f713-3a08-4520-b197-3a4673d8e36d
+40.85.175.19
+
+SQL SERVER LOGIN
+ayodejisanya
+Pa55w0rd!1
+
+AZURE POWERSHELL
+https://shell.azure.com/
+
+AWS
+pa55w0rd!1
+
+AWS AMI AWS LINUX
+3.21.228.114
+18.223.247.75
+18.223.162.120
+
+NHS PASSWORD:
+cd3233f7-050a-40bd-89ba-0c2037c934db&x
+cd3233f7050A
+cd3233f7050a40bd89ba0c2037c934db&x
+Cd3233f7050a40bd89
+Cd3233f7050a4
+
+REDHAT LINUX DEVOPS LINK ANSIBBLE OPENSHIFT JENKINS - REDHAT ACHADEMY
+
+https://www.redhat.com/en/search/devops?f%5B0%5D=hybrid_type%3AVideo
+
+
+AZURE VM TEMPLATES
+
+https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-vm-tags/azuredeploy.json
+
+PowerShell
+New-AzResourceGroup -Name <resource-group-name> -Location <resource-group-location> #use this command when you need to create a new resource group for your deployment
+New-AzResourceGroupDeployment -ResourceGroupName <resource-group-name> -TemplateUri https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-vm-tags/azuredeploy.json
+Install and configure Azure PowerShell 
+
+Command line
+az group create --name <resource-group-name> --location <resource-group-location> #use this command when you need to create a new resource group for your deployment
+az group deployment create --resource-group <my-resource-group> --template-uri https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-vm-tags/azuredeploy.json
+Install and Configure the Azure Cross-Platform Command-Line Interface
+
+AZURE VM ENCRYPTION
+az vm encryption enable --resource-group "Contoso" --name "vm1" --dis keyvault "CorpVault" --volume-type All
+
+Obinna Ugochuku
+ougochuku@earthlink.net
+login to = https://839265870975.signin.aws.amazon.com/console
+
+CLOUD POWERSHELL LOGIN
+
+
+Subscription Id: 490a89f7-6f70-45bf-b9d5-e5f9dfdb7c51
+Resource group:  cloud-shell-storage-westeurope
+Storage account: csb10032000a500f116
+File share:      cs-ayodejisanya-yahoo-com-10032000a500f116
+
+Your cloud drive has been created in:
+
+Subscription Id: 490a89f7-6f70-45bf-b9d5-e5f9dfdb7c51
+Resource group:  cloud-shell-storage-westeurope
+Storage account: csb10032000a500f116
+File share:      cs-ayodejisanya-yahoo-com-10032000a500f116
+
+Initializing your account for Cloud Shell...-
+Requesting a Cloud Shell.Succeeded.
+Connecting terminal...
+
+Welcome to Azure Cloud Shell
+
+Type "az" to use Azure CLI
+Type "help" to learn about Cloud Shell
+
+
+MOTD: Read more about PowerShell in CloudShell: https://aka.ms/pscloudshell/docs
+
+VERBOSE: Authenticating to Azure ...
+VERBOSE: Building your Azure drive ...
+PS /home/ayodeji>
+
+SHARE ON AZURE FOR PORT 445 NETWORK MAPPING
+
+$connectTestResult = Test-NetConnection -ComputerName gamartecstore.file.core.windows.net -Port 445
+if ($connectTestResult.TcpTestSucceeded) {
+    # Save the password so the drive will persist on reboot
+    cmd.exe /C "cmdkey /add:`"gamartecstore.file.core.windows.net`" /user:`"Azure\gamartecstore`" /pass:`"jW8JIk8/UjHO0q2YWfHrLJcToZyoMv57wW64nsHHA1YOV6MUakYlH53yAQn8b1ZMHmqxD1Jqg2GFSodPeUh97w==`""
+    # Mount the drive
+    New-PSDrive -Name Z -PSProvider FileSystem -Root "\\gamartecstore.file.core.windows.net\gamarshare"-Persist
+} else {
+    Write-Error -Message "Unable to reach the Azure storage account via port 445. Check to make sure your organization or ISP is not blocking port 445, or use Azure P2S VPN, Azure S2S VPN, or Express Route to tunnel SMB traffic over a different port."
+}
+
+
+ADIRE LOGIN DETAILS
+
+The Adire Database is to be hosted in the cloud. There are various options available namely Microsoft Azure or Amazon Web Services (AWS) or Google Web Services. For the purposes of the Adire Application , we will be using Microsoft Azure.
+The following details are available 
+Server name: adire.database.windows.net
+JDBC Connection String : jdbc:sqlserver://adire.database.windows.net:1433;database=adireShoppingDatabase;user=adireAdmin@adire;password={your_password_here};encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+User Name: adireAdmin
+Password: Please contact me for the password
+Database Name: adireShoppingDB
+ 
+SANYA SQL SERVER LOGIN
+gamarsqlsrv.database.windows.net
+ayodejisanya@yahoo.com
+Pa55w0rd!1
+
+ADIRE DATABASE
+adireAdmin
+P@ssw0rd
+P4ssw0rd
+
+SAP MIRATION TOOLS  -
+�	
+�	SAP MIGRATION 
+�	DELL BOOMI
+�	SAP CLOUD PLATFORM INTERGRATOR
+SAP MIGRATION 
+
+create users in sql
+
+-- Creates the user "shcooper" for SQL Server using the security credential "RestrictedFaculty"
+-- The user login starts with the password "Baz1nga," but that password must be changed after the first login.
+CREATE LOGIN designer
+  WITH PASSWORD = 'Pa55w0rd!1' 
+GO
+
+AMAZON -AWS STARTED LAMDBA, DYNAMODB FOR SERVERLESS COMPUTE TO RESOLVE THE AUSTERIALAN CENSUS WHICH WAS NOT SCALED UP 
+AND SCALED OUT ENOUGHT TO BE SUCCESSFUL AT $9M USD AFTER STUDENTS BUILT A REPLICA SERVERLESS SOLUTION WITH LAMDBA 
+(LOGIC/FUNCTION APPS) AND DYNAMODB (DATABASE) AT $500
+
+LAMDBA IS THE SERVERLESS SOLUTION WITN DYNAMODB TO EC2 IN AWS AND EQUIVALENT 
+OF SERVERLESS SERVICE FOR SQL, COSMOSDB IN AZURE FOR NO-DATABASE
+
+AWS KINESIS IS EQUIVALENT OF EVENT HUN IOT HUBS IN AZURE FOR ALANYTICS SERVCICS AND DATA REPORTING 
+
+LAMDBA FOR SERVERLESS COMPUTE
+DYNAMODB FOR SERVERLESS STORAGE
+
+ATLASIAN /JIRA
+https://gamartec.atlassian.net/wiki/spaces/GAMARWORKS/pages/33091/MY+PROFILE+SUMMARY
+
+https://gamartec.atlassian.net/wiki/spaces/GAMARWORKS/pages/33091/MY+PROFILE+SUMMARY
+
+https://gamartec.atlassian.net/wiki/spaces/GAMARWORKS/pages/33112/ACHIVEMENTS+QUESTIONS
+
+REDHAT LINUX ACADEMY , REDHAT KUBERMETER , AWS, MICROSOFT APPLICATION BUSINESS SUMMIT 
+
+https://mymbas.microsoft.com/sessions?t=%257B%2522from%2522%253A%25222020-05-06T00%253A00%253A00%252B01%253A00%2522%252C%2522to%2522%253A%25222020-05-07T23%253A59%253A00%252B01%253A00%2522%257D&g=%255B%2522on-demand%2522%255D
+https://www.microsoft.com/en-us/businessapplicationssummit?wt.mc_id=mbas_em_oo__poweruser_home_t1_inline%20&mkt_tok=eyJpIjoiWkdNNU1UUTBaalZrWVRJeiIsInQiOiI1WkJUSWd0dUhCc2IraXZJR1VzWnR5bG8xMWdFdk1HUVZlaGpWZzNNams4TjRmakVUMDZ3QVhCMSt5V2w0cGpydWZXbEYwMURCdFV2aDZ0bVpBY3BxcmpJb2lCdGNFSWlzRStxRDRDaVBtRFVPbU1OMEcyTkk2NDFCKzFtUEU3SW9DTUcyMnFzb3FMVlFhXC9JcllsT2V3PT0ifQ%3D%3D
+https://mymbas.microsoft.com/sessions?t=%257B%2522from%2522%253A%25222020-05-06T00%253A00%253A00%252B01%253A00%2522%252C%2522to%2522%253A%25222020-05-07T23%253A59%253A00%252B01%253A00%2522%257D&g=%255B%2522on-demand%2522%255D&p=3#top-anchor
+https://www.microsoft.com/en-us/businessapplicationssummit
+https://mybuild.microsoft.com/?wt.mc_id=AID3012727_QSG_EML_431310&mkt_tok=eyJpIjoiTm1KbE1UTTNPVEpsWm1aaiIsInQiOiJua1lyN1JnNmtBV3FaR1NjbmZXUnZuUzlJRVFXQmZUQkpmQXV3bU5HWndmcTlDaU9idHVFN3hhTnQ5UStITzI1OU1WVVE1dnhvYkF5K05zMkhHVisxVlFTd1wvS09sM3BVTFVmaUVcL3dWUmt5Wm1XUFptUm9lc3lYSzdycG5kd24rbzZQOVNMbVYzTVh6UjlJSG1ac0dXUT09In0%3D
+https://developers.redhat.com/devnation/tech-talks/kubernetes-made-easy-with-OpenShift/watch/
+https://developers.redhat.com/devnation/tech-talks/Kubernetes-evolution-distributed-systems/watch/
+https://github.com/ayosanya/hellojava
+https://mybuild.microsoft.com/?wt.mc_id=AID3012727_QSG_EML_431310&mkt_tok=eyJpIjoiTm1KbE1UTTNPVEpsWm1aaiIsInQiOiJua1lyN1JnNmtBV3FaR1NjbmZXUnZuUzlJRVFXQmZUQkpmQXV3bU5HWndmcTlDaU9idHVFN3hhTnQ5UStITzI1OU1WVVE1dnhvYkF5K05zMkhHVisxVlFTd1wvS09sM3BVTFVmaUVcL3dWUmt5Wm1XUFptUm9lc3lYSzdycG5kd24rbzZQOVNMbVYzTVh6UjlJSG1ac0dXUT09In0%3D
+https://www.microsoft.com/en-us/businessapplicationssummit
+https://mymbas.microsoft.com/sessions?t=%257B%2522from%2522%253A%25222020-05-06T00%253A00%253A00%252B01%253A00%2522%252C%2522to%2522%253A%25222020-05-07T23%253A59%253A00%252B01%253A00%2522%257D&g=%255B%2522on-demand%2522%255D&p=3#top-anchor
+https://linuxacademy.com/library/topics/DevOps~AWS/type/Course/page/12/
+
+
+PASTOR HEALING SONGS
+
+https://www.youtube.com/watch?v=MzJyDMestHQ
+https://www.youtube.com/watch?v=MzJyDMestHQ
+https://www.youtube.com/watch?v=6PoBFaXsNus
+
+JENKINS TUTORIAL FOR JAR REPOSITORY FROM GITHUB
+
+http://www.yolinux.com/TUTORIALS/Jenkins-Java-builds.html
+
+JUNE MICROSOFT TRAINING
+https://www.microsoft.com/en-gb/events/training-days/?wt.mc_id=AID3001423_QSG_EML_432875&mkt_tok=eyJpIjoiT0RWak5qRTRNekJtT1RKayIsInQiOiJMZW9FYW8xSldiSm9lNFB0T01iemJQUEhEV2N0WkY2V04xMXExTzRreGUxbU0xVE5pUjFBN0VcL1Rlcmluemh1cXlCM3FmVGtjTkJXbHZnS0tjV1FlZFk2ZSt0cWlZZnY5TzhvcXdFeXBlZ0Z5Snd6d21LaGhWbzUrd0oxaTc3NkpsRkxHUVFHMFBDSEJXV0hcL3RTMlwvOEE9PSJ9#dynamics-365
+
+
+REDHAT PASSWORD
+
+user : ayosanya
+password : Pa55w0rd!1234
+
+user : root
+password : Pa55w0rd!1234
+
+FEDERA PASSWORD
+
+user: root
+password: Pa55w0rd!1234
+
+AWS AND AZURE USEFUL LINKS
+
+https://aws.amazon.com/server-migration-service/
+
+AWS VCENTER
+https://aws.amazon.com/ec2/vcenter-portal/
+
+AWS GUARDDUTY FOR GDPR
+https://aws.amazon.com/guardduty/
+
+AWS COGNITO
+https://aws.amazon.com/cognito/faqs/
+
+https://aws.amazon.com/search/?searchQuery=cognito
+
+AWS LAMBDA FUNCTIONS
+https://aws.amazon.com/lambda/
+
+AWS CLOUDFORMATION
+https://aws.amazon.com/cloudformation/?nc2=type_a
+
+AWS CERTIFICATION
+https://aws.amazon.com/certification/certification-prep/?nc2=sb_ce_ep
+
+WINDOWS ON AWS
+https://aws.amazon.com/windows/?analyst-reports-windows.sort-by=item.additionalFields.datePublished&analyst-reports-windows.sort-order=desc
+
+VM IMPORT /EXPORT OVA FILES INTO S3 BUCKETS
+https://aws.amazon.com/ec2/vm-import/
+
+
+AWS HDFS DATA FOR BIGDATA MIGRATION
+https://aws.amazon.com/emr/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc
+
+AWS KINESIS 
+https://aws.amazon.com/kinesis/
+https://aws.amazon.com/kinesis/data-firehose/
+
+AWS ATHENA
+https://aws.amazon.com/athena/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc
+
+AZURE MIGRATE- FOR AZURE MIGRATION TOOLS
+https://azure.microsoft.com/en-gb/migration/webinars/
+https://azure.microsoft.com/en-gb/services/azure-migrate/#features
+https://www.microsoft.com/en-gb/together/migrate-efficiently-on-your-terms/?rtc=2
+
+AWS COST EXPLORER
+https://aws.amazon.com/aws-cost-management/aws-cost-explorer/
+
+AWS MKIGRATION OPTIONS
+FOR ASSESSMENT:
+TSO LOGIC
+AWS CLOUD VALUE FRAMEWORK
+AWS APPLICATION DISCOVERY SERVICE
+AWS CONTROL TOWER
+AWS LANDING ZONE
+
+FOR MIGRATION:
+AWS CLOUDENDURE- PYSICAL , VMWARE, AZURE, HYPER-V LARGE SCALE AGENT SOLUTION
+AWS SERVER MIGRATION SERVICE- VMWARE HYPER-V, AZURE MIDDIUM SCALE AGENTLESS SOLUTION
+AWS DATABASE MIGRATION SERVICE
+AWS VM IMPORT/EXPORT (VMOTION ON VSPHERE) WITH CONNECTOR
+AWS DATASYNC
+AWS SNOW FAMILY OF SERVICE
+AWS TRANSFER FOR SFTP
+
+FOR OPERATION MANAGEMENT:
+AWS MANAGED SERVICE
+AWS CLOUDWATCH
+AWS SYSTEM MANAGER
+AWS LICENCES MANAGER
+AWS CLOUD TRAIL
+
+AZURE MIGRATION PORTAL SEMINAR
+https://azure.microsoft.com/en-gb/migration/webinars/
+
+ADMIN CENTER
+https://localhost:6516/
+
+MICROSOFT DISCOVERY TOOLS FOR MIGRATION
+AZURE MIGRATE: SERVER ASSESSMENT
+CLOUDAMIZE:CLOUD ASSESSMENT
+CORENT TECH:SurPaaS MaaS
+TURBONOMIC: Turbonomic
+UNIFYCLOUD: CloudRecon
+DEVICE42: Devices42
+
+MIGRATION TOOLS ISV-
+AZURE MIGRATE
+CABONITE
+CORENT TECH
+
+
+SMART HOTELS REST API APP
+https://github.com/Microsoft/SmartHotel360
+
+AMAZON AWS- HOW TO IMPLEMENT CONTINOUS MONITORING ON AWS
+
+https://pages.awscloud.com/awsmp-sme-ops-PagerDuty-CentralizeITMonitoring-ty.html
+
+National Rail
+Pa5sw0rd!1
+pas5w0rd!1
+
+onedrive code
+
+WB9GW-5MRY4-GJTEG-LX6AV-CAJ5L
+
+LEATHER WORLD IP
+41.58.159.250
